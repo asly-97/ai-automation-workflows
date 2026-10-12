@@ -2,7 +2,7 @@
 
 Why do AI agents keep forgetting everything, and how do you give ChatGPT, Claude, Claude Code, Codex, Cursor, OpenClaw and Hermes one shared memory? This is the full technical guide behind the Agentic Pod episode **"Why Do My AI Agents Keep Forgetting Everything? (And How to Fix It)"**.
 
-- 🎧 Watch the episode: [Why Do My AI Agents Keep Forgetting Everything? (And How to Fix It)](https://youtu.be/YkjtCx0wxWQ) on Agentic Pod
+- 🎧 Watch the episode: [Why Do My AI Agents Keep Forgetting Everything? (And How to Fix It)](https://youtu.be/ub5YKQ4LRu8) on Agentic Pod
 - 🧠 Memory layer used in every workflow here: [Vilix AI](https://vilix.ai)
 - ⚙️ Setup for 20+ AI tools: [`setup/`](./setup/README.md)
 - 🔁 Ready-made workflows: [`workflows/`](./workflows)
@@ -155,7 +155,7 @@ Full tool list with parameters: [`reference/mcp-tools.md`](./reference/mcp-tools
 |---|---|---|
 | [Multi-agent operator: one memory for every agent](./workflows/01-multi-agent-operator.md) | People running OpenClaw, Hermes, Claude Code, Codex, ChatGPT scheduled tasks, n8n | Agents that read each other's runs, never repeat failures, and take orders from your phone via the inbox |
 | [Solo founder: phone to laptop](./workflows/02-solo-founder-phone-to-laptop.md) | One developer building one product | Spec written in ChatGPT on the phone is there when Claude Code or Cursor opens the repo |
-| [Agency: one brain per client](./workflows/03-agency-one-project-per-client.md) | Automation freelancers and small studios | Per-client rules, searchable build history, reusable skills across clients |
+| [Agency: one brain per client](./workflows/03-agency-one-project-per-client.md) | AI agencies, automation freelancers, people who sell AI agents | One Vilix AI account per client (included in your retainer), every agent you build wired to it, no memory to build from scratch |
 | [Switching tools without starting over](./workflows/04-switching-tools-without-starting-over.md) | Vibe coders moving from Lovable/Bolt to Cursor or Claude Code | The new tool knows the app, its decisions and what was tried |
 | [One set of rules and skills for every tool](./workflows/05-shared-rules-and-skills.md) | Anyone with CLAUDE.md, AGENTS.md, custom instructions | Rules and procedures written once, used everywhere |
 
