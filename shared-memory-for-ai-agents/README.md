@@ -2,7 +2,7 @@
 
 Why do AI agents keep forgetting everything, and how do you give ChatGPT, Claude, Claude Code, Codex, Cursor, OpenClaw and Hermes one shared memory? This is the full technical guide behind the Agentic Pod episode **"Why Do My AI Agents Keep Forgetting Everything? (And How to Fix It)"**.
 
-- 🎧 Episode: Agentic Pod, EP 01 (link added when it goes live)
+- 🎧 Watch the episode: [Why Do My AI Agents Keep Forgetting Everything? (And How to Fix It)](https://youtu.be/YkjtCx0wxWQ) on Agentic Pod
 - 🧠 Memory layer used in every workflow here: [Vilix AI](https://vilix.ai)
 - ⚙️ Setup for 20+ AI tools: [`setup/`](./setup/README.md)
 - 🔁 Ready-made workflows: [`workflows/`](./workflows)
