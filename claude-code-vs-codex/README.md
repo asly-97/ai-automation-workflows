@@ -2,7 +2,7 @@
 
 Claude Code or Codex, which AI coding agent should you use in 2026? The honest answer is both: route each task to the tool that fits it, and keep one shared memory so neither tool starts from zero. This is the full technical guide behind the Agentic Pod episode **"Claude Code vs Codex: Which AI Coding Agent Should You Use?"**.
 
-- 🎧 Watch the episode: Claude Code vs Codex on Agentic Pod (link added after upload)
+- 🎧 Watch the episode: [Claude Code vs Codex: Which AI Coding Agent Should You Use?](https://youtu.be/u5PskzgMi_Y) on Agentic Pod
 - 📖 Read the article: [Claude Code vs Codex: Which AI Coding Agent Should You Use in 2026?](https://vilix.ai/blog/claude-code-vs-codex)
 - 🧠 Memory layer used here: [Vilix AI](https://vilix.ai)
 - ⚙️ Setup for 20+ AI tools: [`shared-memory-for-ai-agents/setup/`](../shared-memory-for-ai-agents/setup/README.md)
