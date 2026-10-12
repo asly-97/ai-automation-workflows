@@ -8,6 +8,7 @@ No toy demos. Everything here runs on a schedule and does real work.
 
 | Workflow | What it does | Stack |
 |---|---|---|
+| [Shared memory for AI agents](./shared-memory-for-ai-agents) | Gives ChatGPT, Claude, Claude Code, Codex, Cursor, OpenClaw and Hermes one shared memory, so agents stop forgetting, stop repeating failed runs and follow one set of rules. Setup for 20+ tools, agent prompts, 5 workflows | Vilix AI, MCP, any AI tool |
 | [AI visibility content pipeline](./ai-visibility-content-pipeline) | Writes 3 draft articles every morning for one real question people ask AI tools, I approve one, it publishes, indexes, and tracks rankings | Claude, Notion, Ghost, Vilix AI, IndexNow |
 
 More coming. Each one gets its own folder with the same structure:
