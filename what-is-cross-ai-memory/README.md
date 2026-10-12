@@ -2,7 +2,7 @@
 
 What is cross-AI memory, and how do ChatGPT, Claude, Claude Code, Cursor and Codex share one memory? This is the full technical guide behind the Agentic Pod episode **"What Is Cross-AI Memory? (And How Do Your AI Tools Share One?)"**.
 
-- 🎧 Watch the episode: [What Is Cross-AI Memory? (And How Do Your AI Tools Share One?)](https://youtu.be/fNJqk9GSeGQ) on Agentic Pod
+- 🎧 Watch the episode: [What Is Cross-AI Memory? (And How Do Your AI Tools Share One?)](https://youtu.be/HjHgTpAbRqA) on Agentic Pod
 - 📖 Read the article: [What is cross-AI memory?](https://vilix.ai/blog/cross-ai-memory)
 - 🧠 Memory layer used here: [Vilix AI](https://vilix.ai)
 - ⚙️ Setup for 20+ AI tools: [`shared-memory-for-ai-agents/setup/`](../shared-memory-for-ai-agents/setup/README.md)
