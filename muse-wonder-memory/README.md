@@ -2,7 +2,7 @@
 
 Does Meta's Muse Wonder remember between conversations? Yes. Its Active Memory carries context across chats and tops Meta's own MemoryBench. This guide covers what Meta launched, what the scoreboard says, why no single model wins every task, and how to give Muse, Claude, ChatGPT and Codex one shared memory with Vilix AI over MCP. It's the full technical guide behind the Agentic Pod episode **"Meta's Muse Wonder Remembers Everything. Your Other AIs Don't."**.
 
-- 🎧 Watch the episode: Muse Wonder on Agentic Pod (link added after upload)
+- 🎧 Watch the episode: [Muse Wonder on Agentic Pod](https://youtu.be/qmroxPpFeiI)
 - 📖 Read the article: [Muse Wonder Remembers You. Now Make Claude, ChatGPT and Codex Remember Too.](https://vilix.ai/blog/muse-wonder-active-memory-claude-chatgpt-codex/)
 - 🧠 Memory layer used here: [Vilix AI](https://vilix.ai)
 - ⚙️ Setup for 20+ AI tools: [`shared-memory-for-ai-agents/setup/`](../shared-memory-for-ai-agents/setup/README.md)
