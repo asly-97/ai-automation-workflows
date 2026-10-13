@@ -2,7 +2,7 @@
 
 What's the difference between ChatGPT memory and Claude Projects, and how do you keep one memory when you work across ChatGPT, Claude, Cursor and Codex? ChatGPT memory personalizes ChatGPT from your chats, files and linked apps. Claude Projects give one piece of work its own instructions, knowledge files, chats and memory space. Both are excellent inside their own app. When your work moves between tools, you connect every tool to one shared memory over MCP. This is the full technical guide behind the Agentic Pod episode **"ChatGPT Memory vs Claude Projects: What's the Difference?"**.
 
-- 🎧 Watch the episode: coming soon on [Agentic Pod](https://www.youtube.com/@agenticpod)
+- 🎧 Watch the episode: [ChatGPT memory vs Claude Projects on Agentic Pod](https://youtu.be/W1OIIipaXdY)
 - 📖 Read the article: [ChatGPT memory vs Claude Projects: what's the difference?](https://vilix.ai/blog/chatgpt-memory-vs-claude-projects)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Per-tool setup: [vilix.ai/get-started](https://vilix.ai/get-started)
