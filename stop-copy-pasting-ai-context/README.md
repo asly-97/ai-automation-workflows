@@ -2,7 +2,7 @@
 
 How do you stop pasting the same project notes into ChatGPT, Claude, Cursor, Codex and every other AI tool you use? Every AI app keeps its own chat history and its own memory, so what one tool knows stays inside that tool. The fix is to connect every tool to one shared memory over MCP: each tool loads your context before it replies and saves the exchange after, so the next tool already knows where you left off. This is the full technical guide behind the Agentic Pod episode **"How Do I Stop Copy-Pasting Context Between AI Tools?"**.
 
-- 🎧 Watch the episode: coming soon on [Agentic Pod](https://www.youtube.com/@agenticpod)
+- 🎧 Watch the episode: [Stop copy-pasting AI context on Agentic Pod](https://youtu.be/VI3-CjkzvHg)
 - 📖 Read the article: [How do I avoid copy-pasting context between different AI chat interfaces?](https://vilix.ai/blog/avoid-copy-pasting-context-between-ai-tools)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Per-tool setup: [vilix.ai/get-started](https://vilix.ai/get-started)
