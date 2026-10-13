@@ -2,7 +2,7 @@
 
 How do you give ChatGPT, Claude, Claude Code, Codex, Cursor, OpenClaw and Hermes one shared memory? You connect every tool to one MCP memory server, pick the right sign-in path for each tool, make the memory loop automatic, and then prove it works with a quick cross-tool test. This is the full technical guide behind the Agentic Pod episode **"How Do You Set Up an MCP Memory Server for ChatGPT, Claude and Cursor?"**.
 
-- 🎧 Watch the episode: coming soon on [Agentic Pod](https://www.youtube.com/@agenticpod)
+- 🎧 Watch the episode: [MCP memory server setup on Agentic Pod](https://youtu.be/-CMI-csqde8)
 - 📖 Read the article: [How to set up an MCP memory server for ChatGPT, Claude & Cursor](https://vilix.ai/blog/mcp-memory-server-setup-guide)
 - 🧠 Memory server used here: [Vilix AI](https://vilix.ai) (hosted, Streamable HTTP: `https://api.vilix.ai/mcp`)
 - ⚡ Per-tool setup with screenshots: [vilix.ai/get-started](https://vilix.ai/get-started)
