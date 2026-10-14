@@ -2,7 +2,7 @@
 
 The full technical guide behind the Agentic Pod episode **"Do ChatGPT Scheduled Tasks Remember Between Runs?"**: what each kind of ChatGPT scheduled task keeps from one run to the next, why your morning briefing repeats itself, and how to give every scheduled run (in ChatGPT, n8n, Zapier, Make or your own cron job) one shared memory with Vilix AI.
 
-- 🎧 Watch the episode: VIDEO_LINK_PENDING
+- 🎧 Watch the episode: [Do ChatGPT Scheduled Tasks Remember Between Runs? on Agentic Pod](https://youtu.be/Vfv4ypzzT08)
 - 📖 Read the article: [Do ChatGPT Scheduled Tasks Remember Between Runs? What Actually Persists](https://vilix.ai/blog/do-chatgpt-scheduled-tasks-remember-between-runs-what-actually-persists-and-what-you-still-lose)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Get started: [vilix.ai/get-started](https://vilix.ai/get-started)
