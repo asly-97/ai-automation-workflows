@@ -2,7 +2,7 @@
 
 The full technical guide behind the Agentic Pod episode **"What Are OpenAI Dots? Can You Control What They Remember?"**: what OpenAI's always-on Dots are, how their memory works, what OpenAI's Dots FAQ says about viewing and deleting dot memories, and how to give every agent you run (a dot, Claude Code, Codex, n8n, OpenClaw, Hermes) one shared memory you can inspect, correct, delete and export, with Vilix AI.
 
-- 🎧 Watch the episode: [What Are OpenAI Dots? on Agentic Pod](https://www.youtube.com/@agenticpod)
+- 🎧 Watch the episode: [What Are OpenAI Dots? Can You Control What They Remember? on Agentic Pod](https://youtu.be/GnIKVovI9is)
 - 📖 Read the article: [OpenAI Dots Explained: The Always-On Agent With Memory You Can't Control](https://vilix.ai/blog/openai-dots-explained-the-always-on-agent-with-memory-you-cant-control/)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Get started: [vilix.ai/get-started](https://vilix.ai/get-started)
