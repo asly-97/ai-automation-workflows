@@ -2,7 +2,7 @@
 
 The full technical guide behind the Agentic Pod episode **"How Do You Share Context Between ChatGPT, Claude and Cursor?"**: the four ways to move context between AI tools (carry it by hand, snapshot the repo, self-host a memory layer over MCP, or use a hosted one), what each costs in minutes, effort and trust, and how to set up one shared memory with Vilix AI.
 
-- 🎧 Watch the episode: [Agentic Pod on YouTube](https://www.youtube.com/@agenticpod) (the episode link is added here once the upload is live)
+- 🎧 Watch the episode: [Agentic Pod on YouTube](https://youtu.be/k3QDhUmzxNk)
 - 📰 Blog post: [Share Context Between ChatGPT, Claude, and Cursor: 4 Approaches, Honestly Compared](https://vilix.ai/blog/share-context-between-chatgpt-claude-and-cursor-4-approaches-honestly-compared/)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Get started: [vilix.ai/get-started](https://vilix.ai/get-started)

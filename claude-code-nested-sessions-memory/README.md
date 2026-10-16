@@ -2,7 +2,7 @@
 
 The full technical guide behind the Agentic Pod episode **"Do Claude Code Child Sessions Share Memory?"**: what the Claude Code desktop update of 14 October 2026 added (nested child sessions, saved environments, Local, Cloud and SSH run modes), what a child session starts with, and how to give the parent, every child, Cursor, Codex and your other tools one shared memory with Vilix AI.
 
-- 🎧 Watch the episode: [Agentic Pod on YouTube](https://www.youtube.com/@agenticpod) (the episode link is added here once the upload is live)
+- 🎧 Watch the episode: [Agentic Pod on YouTube](https://youtu.be/pVqxQxrn4aA)
 - 📰 Source for the update: [AlphaSignal: Claude Code now runs nested sessions and saves dev environments](https://alphasignal.ai/news/anthropic-s-claude-code-now-runs-nested-sessions-and-saves-dev-environments)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Get started: [vilix.ai/get-started](https://vilix.ai/get-started)

@@ -2,7 +2,7 @@
 
 The full technical guide behind the Agentic Pod episode **"Does Google's New Gemini Agent Remember Your Work?"**: what Google announced for its Gemini workplace agent at Gemini at Work 2026 (8 October 2026), what "you never have to re-brief it" covers, and how to give that agent, ChatGPT, Claude, Claude Code, Codex and Cursor one shared memory with Vilix AI.
 
-- 🎧 Watch the episode: [Agentic Pod on YouTube](https://www.youtube.com/@agenticpod) (the episode link is added here once the upload is live)
+- 🎧 Watch the episode: [Agentic Pod on YouTube](https://youtu.be/hxZlZb1l2Ds)
 - 📰 Source for the announcement: [CBS News: Google launches Gemini AI workplace agent that can write code and run tasks](https://www.cbsnews.com/news/google-gemini-ai-workplace-agent/)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Get started: [vilix.ai/get-started](https://vilix.ai/get-started)

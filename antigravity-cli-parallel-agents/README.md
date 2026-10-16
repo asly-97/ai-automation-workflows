@@ -1,6 +1,6 @@
 # How do you run coding agents in parallel with Google Antigravity?
 
-A practical first-day guide to Google Antigravity 2.0: what it is, how to install the CLI, how to start two agents at once, and the two gotchas (permission modes and quota). Companion to the Agentic Pod episode "How Do You Run Coding Agents in Parallel With Google Antigravity?".
+A practical first-day guide to Google Antigravity 2.0: what it is, how to install the CLI, how to start two agents at once, and the two gotchas (permission modes and quota). Companion to the Agentic Pod episode: [How Do You Run Coding Agents in Parallel With Google Antigravity?](https://youtu.be/FsIc72P6CvA).
 
 Facts in this guide come from the official download page (https://antigravity.google/download) and the Google Antigravity Wikipedia article (https://en.wikipedia.org/wiki/Google_Antigravity), checked on 2026-10-15. Check Google's own docs before relying on a detail, because versions and limits change.
 
