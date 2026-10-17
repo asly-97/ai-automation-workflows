@@ -4,6 +4,8 @@ VILIXAI is a cloud memory layer over MCP. Any connected AI tool reads it before 
 
 Labels: **[Shipped]** is how the memory works today. **[Planned]** is the planning loop we are building toward. It is not yet a shipped feature.
 
+Try VILIXAI: https://vilix.ai (free plan, no credit card, export or delete anytime)
+
 ---
 
 ## 1. The basic loop [Shipped]
