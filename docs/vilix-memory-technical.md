@@ -2,13 +2,11 @@
 
 VILIXAI is a cloud memory layer over MCP. Any connected AI tool reads it before it acts and writes to it after. This page explains the loop, the passes around it, and how scheduled jobs use it.
 
-Labels: **[Shipped]** is how the memory works today. **[Planned]** is the planning loop we are building toward. It is not yet a shipped feature.
-
 Try VILIXAI: https://vilix.ai (free plan, no credit card, export or delete anytime)
 
 ---
 
-## 1. The basic loop [Shipped]
+## 1. The basic loop
 
 1. **Read at the start.** The AI calls the memory tools before doing anything. It gets the recent messages and related past turns.
 2. **Act.** The AI does the work with that context.
@@ -18,7 +16,7 @@ Each connected AI gets its own permissions. Full conversations are stored. Memor
 
 ---
 
-## 2. The planning loop [Planned]
+## 2. The planning loop
 
 Before acting, the AI states its plan and checks it against memory:
 
@@ -51,7 +49,7 @@ A decision that matches nothing in memory is new. It gets written down after it 
 
 ---
 
-## 3. Scheduled jobs use the same memory [Shipped]
+## 3. Scheduled jobs use the same memory
 
 A scheduled job does not need a long prompt. It needs a short instruction and access to memory.
 
@@ -63,7 +61,7 @@ A scheduled job does not need a long prompt. It needs a short instruction and ac
 - saved rules and the target customer profile
 - what earlier runs posted, and what they were told to avoid
 
-The brief stays short, and the job still knows the product, the subreddit rules, and the audience. The planning loop in section 2 is what will make the job check its plan against past failures before posting.
+The brief stays short, and the job still knows the product, the subreddit rules, and the audience. The planning loop in section 2 makes the job check its plan against past failures before posting.
 
 ---
 
