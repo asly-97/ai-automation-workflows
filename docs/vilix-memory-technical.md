@@ -1,8 +1,8 @@
-# How VILIXAI memory shapes an AI's decisions
+# How Vilix AI memory shapes an AI's decisions
 
-VILIXAI is a cloud memory layer over MCP. Any connected AI tool reads it before it acts and writes to it after. This page explains the loop, the passes around it, and how scheduled jobs use it.
+Vilix AI is a cloud memory layer over MCP. Any connected AI tool reads it before it acts and writes to it after. This page explains the loop, the passes around it, and how scheduled jobs use it.
 
-Try VILIXAI: https://vilix.ai (free plan, no credit card, export or delete anytime)
+Try Vilix AI: https://vilix.ai (free plan, no credit card, export or delete anytime)
 
 ---
 
@@ -54,10 +54,10 @@ A decision that matches nothing in memory is new. It gets written down after it 
 A scheduled job does not need a long prompt. It needs a short instruction and access to memory.
 
 **Short job brief (what you write):**
-> Post a feedback request about VILIXAI in this week's subreddit list. Keep the rules in mind.
+> Post a feedback request about Vilix AI in this week's subreddit list. Keep the rules in mind.
 
 **What the job reads at the start:**
-- recent messages and related turns about VILIXAI
+- recent messages and related turns about Vilix AI
 - saved rules and the target customer profile
 - what earlier runs posted, and what they were told to avoid
 
