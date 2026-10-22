@@ -2,6 +2,8 @@
 
 A practical guide to Notion's October 19, 2026 agent release: what the sixth-generation agent harness changed, how the Auto model router and the new credit system work, a safe first job to test, and the gotchas to check before you trust it with real work. Companion to the Agentic Pod episode "Can Notion Agents Really Run for 24 Hours?".
 
+**Watch the episode:** https://youtu.be/iDPCtspMpnM
+
 Everything below comes from Notion's own post and release notes (linked at the end). The cost and benchmark numbers are Notion's own internal figures, not independent tests. Notion does not publish click-by-click steps for these features, so the "try it" section says what to test, not exact menus.
 
 ## What changed

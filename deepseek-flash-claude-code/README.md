@@ -2,6 +2,8 @@
 
 A practical guide to DeepSeek's Anthropic-compatible API: what the `deepseek-flash` model name now points to, the exact environment variables DeepSeek publishes for running Claude Code on it, a safe first prompt, and the gotchas to check before you trust it with real work. Companion to the Agentic Pod episode "Can You Run Claude Code on DeepSeek's Flash Model?".
 
+**Watch the episode:** https://youtu.be/kSfrnWQd58c
+
 
 Everything below comes from DeepSeek's own API docs (linked at the end). The docs page did not state prices, so this guide does not quote any. Check DeepSeek's pricing page the day you start.
 

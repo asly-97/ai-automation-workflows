@@ -2,6 +2,8 @@
 
 The full technical guide behind the Agentic Pod episode **"Does Agentforce Remember Between Scheduled Runs?"**: what Agentforce keeps inside one session, why a scheduled run starts blank, what Salesforce's long-horizon runtime changes, and how to give an Agentforce agent (and every other scheduled agent in your stack: n8n, Claude Code, Codex, OpenClaw, Hermes or a cron job) one shared memory with Vilix AI.
 
+**Watch the episode:** https://youtu.be/ekL-Ax_Mcf0
+
 - 📖 Read the article: [Your Agentforce Agent Remembers the Session. It Does Not Remember Last Night's Run.](https://vilix.ai/blog/agentforce-remembers-the-session-not-last-nights-run)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Get started: [vilix.ai/get-started](https://vilix.ai/get-started)

@@ -2,6 +2,8 @@
 
 The full technical guide behind the Agentic Pod episode **"Does Cursor Remember Between Sessions?"**: what Cursor keeps (chat history, Memories, rules files, the codebase index), what none of that carries into tomorrow's chat, why scheduled and background runs start blank, and how to give Cursor, Claude Code, ChatGPT, Codex and every other tool you use one shared memory with Vilix AI.
 
+**Watch the episode:** https://youtu.be/aoVdqItW5NA
+
 - 📖 Read the article: [Cursor Keeps Your Chats. It Still Forgets What You Taught It.](https://vilix.ai/blog/cursor-keeps-your-chats-it-still-forgets-what-you-taught-it)
 - 🧠 Shared memory used here: [Vilix AI](https://vilix.ai) (hosted MCP server: `https://api.vilix.ai/mcp`)
 - ⚡ Get started: [vilix.ai/get-started](https://vilix.ai/get-started)
