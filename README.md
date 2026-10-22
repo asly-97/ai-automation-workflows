@@ -35,6 +35,7 @@ No toy demos. Everything here runs on a schedule and does real work.
 | [Does Cursor remember between sessions?](./cursor-memory-between-sessions) | What Cursor keeps (chat history, Memories, rules files, the codebase index), what none of that carries into tomorrow, why scheduled and background runs start blank, and the get_context / save_turn loop that gives Cursor and every other tool one shared memory: setup, two-session test, prompts, FAQ | Cursor, Claude Code, ChatGPT, Codex, Vilix AI, MCP |
 | [Can Notion agents really run for 24 hours?](./notion-agents-24-hours) | What Notion's October 19, 2026 agent release changed (24-hour tasks, own computer and browser, Review for me), how the Auto model router and Standard and Select credits work, a safe first job to test, gotchas and who it is for | Notion Agent, Notion Custom Agents, Auto |
 | [What is Claude Duet, and how do you try it?](./claude-duet-background-agent) | What Anthropic's Claude Duet background agent is (launched October 21, 2026), how its approval gate works, how to join the waitlist, a safe read-only first job, and the gotchas. |
+| [How do you give OpenAI Codex a memory with Vilix AI?](./codex-memory-vilix-ai) | Why Codex starts cold, the two commands that connect it to Vilix AI over MCP, one shared config for the Codex CLI, IDE extension and ChatGPT desktop app, and what get_context and save_turn bring back. |
 
 More coming. Each one gets its own folder with the same structure:
 
