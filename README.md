@@ -36,6 +36,7 @@ No toy demos. Everything here runs on a schedule and does real work.
 | [Can Notion agents really run for 24 hours?](./notion-agents-24-hours) | What Notion's October 19, 2026 agent release changed (24-hour tasks, own computer and browser, Review for me), how the Auto model router and Standard and Select credits work, a safe first job to test, gotchas and who it is for | Notion Agent, Notion Custom Agents, Auto |
 | [What is Claude Duet, and how do you try it?](./claude-duet-background-agent) | What Anthropic's Claude Duet background agent is (launched October 21, 2026), how its approval gate works, how to join the waitlist, a safe read-only first job, and the gotchas. |
 | [How do you give OpenAI Codex a memory with Vilix AI?](./codex-memory-vilix-ai) | Why Codex starts cold, the two commands that connect it to Vilix AI over MCP, one shared config for the Codex CLI, IDE extension and ChatGPT desktop app, and what get_context and save_turn bring back. |
+| [Why does my AI miss memories? (second-pass recall)](./second-pass-recall) | Why an AI can call memory and still answer wrong, the one extra step that fixes it (run the draft back through get_context as a new query, two or three passes), where it matters most, and the setup with Vilix AI or as an n8n workflow step | ChatGPT, Claude, Claude Code, Codex, Cursor, n8n, Vilix AI, MCP |
 
 More coming. Each one gets its own folder with the same structure:
 
