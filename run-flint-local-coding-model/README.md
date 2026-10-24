@@ -2,6 +2,8 @@
 
 The practical guide behind the Agentic Pod episode **"Can You Run a Free AI Coding Model on Your Laptop? Recursive Flint"**: what Flint is, how to run it with Ollama, what hardware to plan for, a small-steps prompt workflow, and the honest limits.
 
+**Watch the episode:** https://youtu.be/XXNaLtvAO-w
+
 ## What Flint is
 
 - Released October 21, 2026 by Recursive (CEO Richard Socher, formerly chief scientist at Salesforce).

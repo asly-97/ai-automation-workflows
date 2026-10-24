@@ -2,6 +2,8 @@
 
 The technical guide behind the Agentic Pod episode **"How Do You Share Memory Across AI Tools?"**: why every AI tool keeps a private memory, five ways to share it, where a shared folder and a self-hosted server break, and how Vilix AI gives ChatGPT, Claude, Claude Code, Codex and Cursor one memory over MCP.
 
+**Watch the episode:** https://youtu.be/hFMIHqOgx3w
+
 Blog post: https://vilix.ai/blog/how-to-share-memory-across-ai-tools-5-approaches-honestly-compared · Start free: https://vilix.ai/get-started
 
 ## The problem
