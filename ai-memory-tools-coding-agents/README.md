@@ -75,4 +75,4 @@ Yes. One Vilix AI account per client keeps their memories separate.
 - Written comparison: https://vilix.ai/blog/best-ai-memory-tools-for-coding-agents
 - Vilix AI: https://vilix.ai
 - Connect your tools: https://vilix.ai/get-started
-- Episode: Agentic Pod EP35 (YouTube link added when published)
+- Episode: [Agentic Pod EP35 on YouTube](https://youtu.be/TV08ik7hOdg)
