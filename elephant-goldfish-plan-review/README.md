@@ -82,4 +82,4 @@ Yes. This is design review, and it is meant to sit before implementation, not re
 - Repo: https://github.com/google/elephant-goldfish-model
 - Google Open Source Blog: https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html
 - Coverage: https://helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin
-- Episode: Agentic Pod EP36 (YouTube link added when published)
+- Episode: [Agentic Pod EP36 on YouTube](https://youtu.be/Rd8EqM2R2B8)
