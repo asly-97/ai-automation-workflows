@@ -64,6 +64,8 @@ No toy demos. Everything here runs on a schedule and does real work.
 | [What is the best AI memory tool for coding agents? 10 compared](./ai-memory-tools-coding-agents) | Ten memory tools sorted by the three pains they solve, how Vilix AI shares one memory across Cursor, Claude Code and Codex, and when to pair it with code-aware indexing | Vilix AI, Cursor, Claude Code, Codex, MCP |
 | [What is Google's Elephant-Goldfish plugin?](./elephant-goldfish-plan-review) | Design with an elephant, review with a goldfish: the seven commands, install steps for Claude Code, Codex and Antigravity, a first-feature workflow and the gotchas | Google, Claude Code, Codex, Antigravity |
 
+| [Does Semantic Kernel remember between sessions?](./semantic-kernel-agent-memory) | What Semantic Kernel actually keeps (a ChatHistory list in process memory resent in full every call, reducers that truncate or summarize, experimental WhiteboardProvider and Mem0Provider on an AgentThread), why nothing survives the session ending by default, the four piece build you own, and the get_context / save_turn loop that gives every session a past: setup, prompts, FAQ | Semantic Kernel, Vilix AI, MCP |
+
 More coming. Each one gets its own folder with the same structure:
 
 ```
