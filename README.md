@@ -70,6 +70,8 @@ No toy demos. Everything here runs on a schedule and does real work.
 | [Does ManyChat remember between conversations?](./manychat-agent-memory) | What ManyChat actually keeps (Context Retention inside one live conversation, an Inbox the AI cannot read, tags and custom fields that store labels instead of reasons), the four options for cross conversation memory, and the get_context / save_turn loop that lets the bot greet returning contacts with their full history: setup, prompts, FAQ | ManyChat, Vilix AI, MCP |
 
 
+| [Parallel Code Races Your Coding Agents in Separate Worktrees](./parallel-code-parallel-agents) | How to run Claude Code, Codex CLI, Copilot CLI, OpenCode, Gemini CLI and Antigravity CLI side by side in Parallel Code, each task in its own Git worktree and branch: setup, AI Arena races, diff review, guided tours, limits, FAQ | Parallel Code, Claude Code, Codex, Copilot CLI, OpenCode, Git worktree |
+
 More coming. Each one gets its own folder with the same structure:
 
 ```
