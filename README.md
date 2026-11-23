@@ -72,6 +72,7 @@ No toy demos. Everything here runs on a schedule and does real work.
 
 
 | [Parallel Code Races Your Coding Agents in Separate Worktrees](./parallel-code-parallel-agents) | How to run Claude Code, Codex CLI, Copilot CLI, OpenCode, Gemini CLI and Antigravity CLI side by side in Parallel Code, each task in its own Git worktree and branch: setup, AI Arena races, diff review, guided tours, limits, FAQ | Parallel Code, Claude Code, Codex, Copilot CLI, OpenCode, Git worktree |
+| [Does OpenHands remember between sessions?](./openhands-remember-between-sessions) | What OpenHands actually persists (sessions in memory until file_store is pinned to local with a fixed jwt_secret, and the SDK's two-tier MEMORY.md files that hold only the agent's own notes on one machine), why nightly runs on fresh containers still wake up blank, and the Vilix AI get_context / save_turn loop over MCP that gives every run the full history: setup, prompts, FAQ | OpenHands, Vilix AI, MCP |
 
 More coming. Each one gets its own folder with the same structure:
 
