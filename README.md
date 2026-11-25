@@ -76,6 +76,8 @@ No toy demos. Everything here runs on a schedule and does real work.
 | [Claude Ship: AI Agents That Review, Fix and Approve Your Pull Requests](./claude-ship-pr-agents) | How to use Claude Ship, Anthropic's three agents for GitHub pull requests: Code Review flags bugs, PR Steward fixes failing CI checks and merge conflicts, Claude Approvals approves routine changes against a policy file in your repo: /ship workflow, repo-wide setup, policy file, limits, FAQ | Claude Ship, Anthropic, Claude Code, GitHub, pull requests |
 | [Omi CLI Runs 13 Models in Your Terminal](./omi-cli-terminal-coding-agent) | How to use Omi CLI, the terminal coding agent that reads your repo, shows every edit as a diff you approve, runs tests in a loop, and splits big jobs across parallel subagents in separate Git worktrees: setup, models, pricing, limits, FAQ | Omi CLI, BuildItOmi, DeepSeek, Gemini, Ollama, Git worktree |
 
+| [Fin Remembers the Chat. Vilix AI Remembers the Work](./fin-memory-survives) | What Intercom Fin actually remembers (inside one conversation, plus reviewed knowledge snippets capped at roughly 100 with four week expiry, and retrieval that is not remembering), why it has no automatic per-customer memory across conversations, why your scheduled agents wake up blank, and the Vilix AI get_context / save_turn loop over MCP that connects the chat to every agent around it: setup, prompts, FAQ | Intercom Fin, Vilix AI, MCP |
+
 More coming. Each one gets its own folder with the same structure:
 
 ```
